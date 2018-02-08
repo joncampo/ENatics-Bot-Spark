@@ -1,8 +1,8 @@
 # ENatics-Spark
 ENatics-Spark
-Hi I'm ENatics! Your All-In-One EN Bot! -> [ENatics Presentation and Demo Video](https://youtu.be/obak9A9xipQ)
+[Hi I'm ENatics! Your All-In-One EN Bot! -> ENatics Presentation and Demo Video Link](https://youtu.be/obak9A9xipQ)
 
-![alt tag](images/main.png)(https://youtu.be/obak9A9xipQ)
+![alt tag](images/main.png)
 
 Table of Contents
 =================
