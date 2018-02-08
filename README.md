@@ -14,7 +14,7 @@ Table of Contents
       * [Installation Guide](#installation-guide)
     * [Demo](#demo)\cf2 \outl0\strokewidth0 \strokec2 \
 
-Created by [{\field{\*\fldinst{HYPERLINK "https://github.com/joncampo"}}{\fldrslt https://github.com/joncampo}}]
+Created by [https://github.com/joncampo]
 
 ## Features
 ![alt tag](images/what_is.png)
