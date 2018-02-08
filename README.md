@@ -1,4 +1,4 @@
-# ENatics-Spark
+# [ENatics-Spark](https://youtu.be/obak9A9xipQ)
 
 [Hi I'm ENatics! Your All-In-One EN Bot! -> ENatics Presentation and Demo Video Link](https://youtu.be/obak9A9xipQ)
 
@@ -39,7 +39,7 @@ Created by [https://github.com/joncampo]
 
 
 ## Demo
-[ENatics Presentation and Demo Video](https://youtu.be/obak9A9xipQ)
+[ENatics Presentation and Demo Video Link](https://youtu.be/obak9A9xipQ)
 
 Note: By using this software, you agree that the author has no liability whatsoever and you agree to Terms of Service and Privacy Policy. 
 See Terms of Service - https://arcane-spire-45844.herokuapp.com/terms
